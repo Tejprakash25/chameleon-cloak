@@ -1,6 +1,6 @@
-🦎 Chameleon Cloak
+#🦎 Chameleon Cloak
 
-Real-time AI-powered background camouflage system inspired by biological adaptation — blends a subject with the wall instead of making them invisible.
+#Real-time AI-powered background camouflage system inspired by biological adaptation — blends a subject with the wall instead of making them invisible.
 
 ⚡ Overview
 
